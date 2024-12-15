@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "675f151a36fad06b677be12a"
+  },
+  "participante_id": 1,
+  "nombre": "Juan Esteban Yepes",
+  "fecha_nacimiento": {
+    "$date": "2001-12-29T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Fútbol",
+  "fecha_registro": {
+    "$date": "2024-12-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f151a36fad06b677be12b"
+  },
+  "participante_id": 2,
+  "nombre": "Carlos Pérez",
+  "fecha_nacimiento": {
+    "$date": "1998-03-12T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Baloncesto",
+  "fecha_registro": {
+    "$date": "2024-12-14T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f153fb224f942639eae30"
+  },
+  "participante_id": 1,
+  "nombre": "Juan Esteban Yepes",
+  "fecha_nacimiento": {
+    "$date": "2001-12-29T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Fútbol",
+  "fecha_registro": {
+    "$date": "2024-12-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f153fb224f942639eae31"
+  },
+  "participante_id": 2,
+  "nombre": "Carlos Pérez",
+  "fecha_nacimiento": {
+    "$date": "1998-03-12T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Baloncesto",
+  "fecha_registro": {
+    "$date": "2024-12-14T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f161e5ba10ee1d6a0254a"
+  },
+  "participante_id": 1,
+  "nombre": "Juan Esteban Yepes",
+  "fecha_nacimiento": {
+    "$date": "2001-12-29T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Fútbol",
+  "fecha_registro": {
+    "$date": "2024-12-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f161e5ba10ee1d6a0254b"
+  },
+  "participante_id": 2,
+  "nombre": "Carlos Pérez",
+  "fecha_nacimiento": {
+    "$date": "1998-03-12T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Baloncesto",
+  "fecha_registro": {
+    "$date": "2024-12-14T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f1f6b36e4c70cc85170b5"
+  },
+  "participante_id": 1,
+  "nombre": "Juan Esteban Yepes",
+  "fecha_nacimiento": {
+    "$date": "2001-12-29T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Fútbol",
+  "fecha_registro": {
+    "$date": "2024-12-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f1f6b36e4c70cc85170b6"
+  },
+  "participante_id": 2,
+  "nombre": "Carlos Pérez",
+  "fecha_nacimiento": {
+    "$date": "1998-03-12T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Baloncesto",
+  "fecha_registro": {
+    "$date": "2024-12-14T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f28399ea202d4940eaa66"
+  },
+  "participante_id": 1,
+  "nombre": "Juan Esteban Yepes",
+  "fecha_nacimiento": {
+    "$date": "2001-12-29T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Fútbol",
+  "fecha_registro": {
+    "$date": "2024-12-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675f28399ea202d4940eaa67"
+  },
+  "participante_id": 2,
+  "nombre": "Carlos Pérez",
+  "fecha_nacimiento": {
+    "$date": "1998-03-12T00:00:00.000Z"
+  },
+  "pais": "Colombia",
+  "tipo_evento": "Baloncesto",
+  "fecha_registro": {
+    "$date": "2024-12-14T12:00:00.000Z"
+  }
+}]
